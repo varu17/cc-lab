@@ -1,2 +1,3 @@
 # cc-lab
-random
+random message
+
